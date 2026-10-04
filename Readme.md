@@ -70,7 +70,6 @@ leaves the machine, and only you can do it.
 
 Cognia 0.1.3 is the public demo: the full writing + whiteboard + portable-export loop
 works on Linux and Windows. Full-text search, a settings store, one-click installers,
-and production hardening are on the roadmap (`docs/ARCHITECTURE.md`).
 
 ## Feedback
 
