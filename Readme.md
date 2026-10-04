@@ -1,6 +1,7 @@
 # Cognia
 
-![Cognia icon](assets/icon.png)
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/94056277-08bc-4e99-acf3-203342cc9a20" />
+
 
 **Your notes, on your machine.** Cognia is a local-first desktop knowledge workspace for
 studying and writing — a calm place where your notes, diagrams, and study material live
