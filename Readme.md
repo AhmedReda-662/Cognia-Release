@@ -1,9 +1,10 @@
 # Cognia
 
 
-https://github.com/user-attachments/assets/f395450e-3618-424d-901c-c274ec686556
 
-<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/94056277-08bc-4e99-acf3-203342cc9a20" />
+
+https://github.com/user-attachments/assets/96ca9fa0-482b-40fc-83cf-2abc22c0c92a
+
 
 
 **Your notes, on your machine.** Cognia is a local-first desktop knowledge workspace for
@@ -11,6 +12,8 @@ studying and writing — a calm place where your notes, diagrams, and study mate
 together, fully offline, with no accounts, no cloud sync, no telemetry, and no AI.
 
 ## What it is
+
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/94056277-08bc-4e99-acf3-203342cc9a20" />
 
 Studying usually scatters your thinking: definitions in one app, diagrams in another,
 formulas screenshotted and already out of date. Cognia keeps the whole thought in one
