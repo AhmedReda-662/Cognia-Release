@@ -1,5 +1,8 @@
 # Cognia
 
+
+https://github.com/user-attachments/assets/f395450e-3618-424d-901c-c274ec686556
+
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/94056277-08bc-4e99-acf3-203342cc9a20" />
 
 
